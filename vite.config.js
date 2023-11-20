@@ -8,4 +8,5 @@ export default defineConfig({
             jQuery: 'jquery',
         }),
     ],
+    publicDir: './src',  
 })
